@@ -4,7 +4,7 @@ class Fila {
   }
   
 
- // Adiciona um elemento da fila
+ // Adiciona um elemento na fila
   enfileirar(elemento) {
     this.itens.push(elemento);
   }
